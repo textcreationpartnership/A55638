@@ -1,0 +1,379 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Peace and gratitude a sermon preached before the Honourable Society of the Natives of the County of Kent, Novemb. 23, 1697 at St. Mary le Bow, London / by Samuel Prat.</title>
+            <author>Pratt, Samuel, 1659?-1723.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55638</idno>
+            <idno type="STC">Wing P3182</idno>
+            <idno type="STC">ESTC R26212</idno>
+            <idno type="EEBO-CITATION">09390636</idno>
+            <idno type="OCLC">ocm 09390636</idno>
+            <idno type="VID">42940</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55638)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42940)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1314:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Peace and gratitude a sermon preached before the Honourable Society of the Natives of the County of Kent, Novemb. 23, 1697 at St. Mary le Bow, London / by Samuel Prat.</title>
+                  <author>Pratt, Samuel, 1659?-1723.</author>
+               </titleStmt>
+               <extent>[4], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Dawks for John Back,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Sermons.</term>
+               <term>Bible. --  N.T. --  Colossians III, 15 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:42940:1" rendition="simple:additions"/>
+            <p>Dr. <hi>PRAT</hi>'s SERMON, Preached before the Honourable SOCIETY OF THE County of <hi>KENT, Novemb.</hi> 23. 1697.</p>
+         </div>
+         <div type="order">
+            <pb facs="tcp:42940:2"/>
+            <head>Martis, <hi>xxx</hi> die Novemb. <hi>1697.</hi>
+            </head>
+            <p>IT is Ordered at a General Meeting of the Stewards for the Society of the County of <hi>Kent,</hi> That their hearty Thanks be given to Dr. <hi>Prat,</hi> for his Sermon Preached on the 23d. inſtant, at St. <hi>Mary le Bow;</hi> and that He be deſired to Print the ſame.</p>
+            <closer>
+               <signed>
+                  <hi>John Cooke,</hi> Treaſurer.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:42940:2"/>
+            <p>
+               <hi>Peace and Gratitude.</hi>
+            </p>
+            <p>A SERMON, Preached before the Honourable SOCIETY Of the NATIVES of the County of <hi>KENT, Novemb.</hi> 23. 1697. At St. <hi>Mary le Bow, London.</hi>
+            </p>
+            <p>By <hi>Samuel Prat,</hi> D. D. Chaplain to His Highneſs. <hi>William</hi> Duke of <hi>Gloceſter.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. Dawks,</hi> for <hi>John Back,</hi> (Bookſeller to the ſaid Honourable Society,) at the <hi>Black-Boy</hi> on <hi>London-Bridge,</hi> 1697.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:42940:3"/>
+            <pb facs="tcp:42940:3"/>
+            <opener>
+               <salute>To my Worthy Friends,
+<list>
+                     <item>
+                        <hi>Capt.</hi> William Wright.</item>
+                     <item>
+                        <hi>Mr.</hi> William Rolph.</item>
+                     <item>
+                        <hi>Mr.</hi> Henry Hene.</item>
+                     <item>
+                        <hi>Mr.</hi> Thomas Staples.</item>
+                     <item>
+                        <hi>Mr.</hi> Edward Simmons.</item>
+                     <item>
+                        <hi>Mr.</hi> Sarles Goatly.</item>
+                     <item>
+                        <hi>Mr.</hi> John Cooke.</item>
+                     <item>
+                        <hi>Mr.</hi> Tho. Gibbs.</item>
+                     <item>
+                        <hi>Mr.</hi> Tho. Biſhop.</item>
+                     <item>
+                        <hi>Mr.</hi> Ja. Almond.</item>
+                     <item>
+                        <hi>Capt.</hi> Geo. Weller.</item>
+                     <item>
+                        <hi>Mr.</hi> Henry Shers.</item>
+                  </list>
+STEWARDS, For the Honourable <hi>Society</hi> of the Natives of the County of <hi>KENT.</hi>
+               </salute>
+               <salute>GENTLEMEN,</salute>
+            </opener>
+            <p>IT was not want of Love or Reſpect to your Honourable <hi>Society,</hi> that made me ſo un<g ref="char:EOLhyphen"/>willing to <hi>Preach</hi> before you; but having very little time at my own diſpoſal, and know<g ref="char:EOLhyphen"/>ing how many Learn'd and Eloquent Divines now reſiding in the <hi>County,</hi> had better oppor<g ref="char:EOLhyphen"/>tunities
+<pb facs="tcp:42940:4"/>of performing that Duty, I was loth you ſhould be involv'd in a diſcredit, which my incapacity at ſo ſhort a warning, muſt needs bring upon my ſelf. And the ſame reaſon made me reſolv'd againſt <hi>Publiſhing</hi> this Incorrect Diſcourſe.</p>
+            <p>It will eaſily be granted, that the other great and <hi>Sacred Charge</hi> in which I have the Ho<g ref="char:EOLhyphen"/>nour to ſerve, will anſwer for me to all the World, if I don't ſhine very bright in the <hi>Gift of Preaching;</hi> I ſhould I hope give a tollera<g ref="char:EOLhyphen"/>ble account of my ſelf, if at preſent I ſhould hide a great part of that Talent, which at the ſame time I have a ſecret deſire (as all Law<g ref="char:EOLhyphen"/>fully Ordain'd Miniſters ought to have) of im<g ref="char:EOLhyphen"/>proving.</p>
+            <p>I muſt confeſs withal 'tis my Opinion, that the Advancement of Reputation with the beſt Judges gotten by this way of Printing Sermons, has of late Years ſcarce compenſated for the trou<g ref="char:EOLhyphen"/>ble; while the greateſt number of Readers ſeek, rather to <hi>exerciſe</hi> their own parts, than to <hi>add</hi> to 'em.</p>
+            <p>
+               <pb facs="tcp:42940:4"/>
+They are not ſo ſevere upon the <hi>Preacher,</hi> as they are upon the <hi>Publiſher,</hi> and therefore ſeeing Men are willing to <hi>Forgive,</hi> what they are too ready to <hi>Forget,</hi> I think that the <hi>Miniſters</hi> of the <hi>Church of England,</hi> ſhould content them<g ref="char:EOLhyphen"/>ſelves with being generally reputed the beſt Preachers in the World, without giving any body the trouble of Reviſing their Performances: At leſt till any other Church can equal the ſmal<g ref="char:EOLhyphen"/>leſt part of what in this kind has hitherto been extant. So that I had much rather you would have been prevail'd upon to excuſe the <hi>omitting</hi> this, of which I fear, I ſhall never forgive my ſelf the <hi>doing.</hi>
+            </p>
+            <p>All that I can ſay for my ſelf is, that I ought not to decline any opportunity of ſhewing my Reſpect to the <hi>County,</hi> for had I no other Ob<g ref="char:EOLhyphen"/>ligations to it than the generous Friendſhip I have met with in the <hi>Noble Family</hi> at <hi>Eaſt<g ref="char:EOLhyphen"/>well,</hi> I ſhould think all my ſpare Hours very well employ'd in expreſſing my Gratitude.</p>
+            <p>Therefore it is no wonder, Gentlemen, if the warmth of your importunities, contrary to
+<pb facs="tcp:42940:5"/>my own Judgment and Reſolutions, has made me to expoſe my ſelf at this time to Cenſure; and particularly of thoſe Men, who have a low eſteem for every thing that is not elaborate and polite.</p>
+            <p>And I have ſtill ſome hopes, that I ſhall buoy my ſelf up; when I put into the Scale of my <hi>Apologie,</hi> the great Civilities that I have received from <hi>you</hi> in your <hi>Repreſentative Ca<g ref="char:EOLhyphen"/>pacity,</hi> which have for ever oblig'd me to be,</p>
+            <closer>
+               <salute>GENTLEMEN,</salute> 
+               <signed>
+                  <hi>Your moſt Humble, and moſt Reſpectful Servant,</hi> Samuel Prat.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:42940:5"/>
+            <head>A SERMON Preached at the Kentiſh-Feaſt.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Coloſſ. III. 15.</hi>
+                  </bibl>
+                  <p>Let the Peace of God rule in your Hearts, to the which alſo ye are cal<g ref="char:EOLhyphen"/>led together in one Body, and be ye thankful.</p>
+               </q>
+            </epigraph>
+            <p>THE Apoſtle in the foregoing Ver<g ref="char:EOLhyphen"/>ſes exhorteth us, <hi>to Bowels of Mer<g ref="char:EOLhyphen"/>cies, Kindneſs, Humbleneſs of Mind, Meekneſs, and long Suffering;</hi> that we ſhould
+<pb n="2" facs="tcp:42940:6"/>
+               <hi>forbear one another, and forgive one another. If any Man hath a quarrel againſt any, even as Chriſt forgave you, ſo alſo do ye: But above all theſe,</hi> ſaith he, (and it is indeed, the Root and Foundation of all theſe,) <hi>put on Charity.</hi>
+            </p>
+            <p>Now here in the following Verſe, he re<g ref="char:EOLhyphen"/>commends two other Virtues, which are in<g ref="char:EOLhyphen"/>ſeparable from ſuch a Chriſtian Temper of Mind, to wit, Peace one with another; and Gratitude towards God: <hi>Let the Peace of God rule in your Hearts, and be ye thankful.</hi>
+            </p>
+            <p>As to the Firſt of theſe, Peace, we have here Three Particulars to be obſerved.</p>
+            <p>The Original of it,<milestone type="tcpmilestone" unit="unspecified" n="I"/> it is of God, <hi>the Peace of God.</hi>
+            </p>
+            <p>The Property and Office of it,<milestone type="tcpmilestone" unit="unspecified" n="II"/> which is to rule and govern Mens Hearts; <hi>Let the Peace of God rule in your Hearts.</hi>
+            </p>
+            <p>The Motives or Inducements,<milestone type="tcpmilestone" unit="unspecified" n="III"/> by which the Apoſtle would perſuade us to it, are theſe Two.</p>
+            <p>
+               <pb n="3" facs="tcp:42940:6"/>
+In the Firſt place,<milestone type="tcpmilestone" unit="unspecified" n="I"/> the Ordinance and Appointment of God, expreſſed in theſe Words, <hi>unto which ye are called:</hi> And,</p>
+            <p>Secondly,<milestone type="tcpmilestone" unit="unspecified" n="II"/> The Mutual Relation which we have one to another; being all of us Mem<g ref="char:EOLhyphen"/>bers <hi>in one Body.</hi>
+            </p>
+            <p>Firſt then, the <hi>Peace of God,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> (called ſo, becauſe it is the Effects of God's Love in our Hearts,) hath atwofold meaning in Holy Scripture. For it ſignifies either,</p>
+            <p>That, that inward Peace, which is the Peace of a good Conſcience, or that peaceable Inclination of Good-will to one, another, which by all the Offices of Love and Charity, exerts its ſelf outwardly.</p>
+            <p>The firſt of theſe is compacted between God Almighty, and the Conſcience of every particular Perſon; upon a firm, lively, and active Faith in the Son of God, and the Pro<g ref="char:EOLhyphen"/>miſes made thro' him to Mankind, with hearty Repentance for Offences paſt, and firm Reſolutions of Amendment for the time to come; hath a lively hope that his Sins are forgiven him, thro' the Merits of Chriſt,
+<pb n="4" facs="tcp:42940:7"/>and that his Peace and Reconciliation is made with God, as <hi>Rom.</hi> 5.1. <hi>Being ju<g ref="char:EOLhyphen"/>ſtified by Faith, we have Peace with God thro' our Lord Jeſus Chriſt:</hi> ſo that it is the <hi>Peace of God,</hi> becauſe it is the Peace which his Son procured for us; there having not been that Love and Agreement between God and Man under the Law: we were then Stran<g ref="char:EOLhyphen"/>gers and Aliens unto the Covenant of Grace;<note place="margin">Ept. 3.13.</note>
+               <hi>But now</hi> (ſaith the Apoſtle) <hi>ye who ſometimes were far off are made nigh, by the Blood of Chriſt, for he is our Peace.</hi>
+            </p>
+            <p>But that Peace which the Apoſtle ſeems chiefly to aim at in this Text, is external in its Operations; when a Habit of Love and Good-will, one towards another, diſpoſes us to all the Offices of Charity and Kind<g ref="char:EOLhyphen"/>neſs, and particularly to a Sociable and Friendly Converſation: in which it is ſo much the more our Parts and Duties to be engaged, by how much we are aſſured, that God is the Author of it: for this reaſon, he is called the <hi>God of Peace,</hi> as in 2 <hi>Cor.</hi> 13.11. <hi>Brethren, be perfect, be of good com<g ref="char:EOLhyphen"/>fort,
+<pb n="5" facs="tcp:42940:7"/>be of one Mind;</hi>
+               <note place="margin">Rom. 15.33, 16, 20. Heb. 13.20.</note> 
+               <hi>live in Peace, and the God of Love and Peace ſhall be with you.</hi>
+            </p>
+            <p>And from hence we may infer, that all thoſe who diſorder the Communion of Saints, who break the Bonds and Obligations of Peace and Unity, who diſturb that Chri<g ref="char:EOLhyphen"/>ſtian Fellowſhip and Harmony which we ought all to conſerve, how ſtrictly Religi<g ref="char:EOLhyphen"/>ous ſoever they pretend to be, how oft ſo<g ref="char:EOLhyphen"/>ever they take the Name of God in their Mouths, yet acting directly againſt the Di<g ref="char:EOLhyphen"/>ctates of God's Holy Spirit, they are pro<g ref="char:EOLhyphen"/>feſſedly the Oppoſers of his Divine Will; <hi>for God is not the Author of Confuſion, but of Peace, as in all Churches of the Saints.</hi>
+            </p>
+            <p>Secondly,<note place="margin">1 Cor. 14.33.</note> Let us conſider the Proper<g ref="char:EOLhyphen"/>ty and Office of this Peace of God, that it is to <hi>rule</hi> in our Hearts.</p>
+            <p>This Word <hi>Rule</hi> in the Text, is Meta<g ref="char:EOLhyphen"/>phorical, relating to the Publick Exerciſes of the Antients, over which there were chief Officers or Judges, conſtituted to decide any Controverſy which might ariſe among the Candidates ſtriving for Victory: ſo that the Word ſignifies, to <hi>ſuperintend</hi> and <hi>judge.</hi>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:42940:8"/>
+Now there being a continual Conflict in the Heart of Man, the virtuous Affections ſtriving againſt evil and carnal Paſſions, and the unruly Deſires uſurping upon, and in<g ref="char:EOLhyphen"/>ſulting over the calm and lovely Graces; Hatred and Envyings againſt Love and Joy, Strife and Emulations againſt Goodneſs and Meekneſs: Here's the Peace of God muſt moderate among 'em, and give the Palm of Victory to the moſt Peaceable; every thing that proceeds from God, having a Soveraign Authority, which is to be executed with all the Force and Vigour imaginable, for the puniſhment of the wicked Doer, and for the praiſe of them that do well.</p>
+            <p>But farther: This Phraſe, <hi>Let it rule in your Hearts,</hi> hath another very great, and pe<g ref="char:EOLhyphen"/>culiar Emphaſis.</p>
+            <p>For the better underſtanding of which, let us reduce all Mankind to four ſeveral Tempers and Diſpoſitions.</p>
+            <p>
+               <hi>Firſt,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> There are thoſe to whom this Peace of God is altogether unknown, who neither poſſeſs it in their Hearts, nor ſo much as pretend to an outward ſhow of it: <hi>Satyrs</hi>
+               <pb n="7" facs="tcp:42940:8"/>without a Metaphor, that inſult all Mankind like the <hi>Giants</hi> of Old, and ſtorm Heaven too with the reakings of that Hell which is always within 'em:</p>
+            <p>Theſe have no Rule and Government for their Thoughts, Words or Actions; no Go<g ref="char:EOLhyphen"/>vernours can pleaſe, no Adminiſtration of Government oblige theſe Men; kindneſs and indulgence has but little influence upon their Reaſon, their own true Intreſt leſs, and Re<g ref="char:EOLhyphen"/>ligion leaſt of all: Theſe are ſuch as Holy <hi>David</hi> had to encounter with, Wo is me ſaith the Pſalmiſt,<note place="margin">Pſal. 120.5.</note> 
+               <hi>That I am conſtrained to dwell in</hi> Meſech, <hi>and to have my Habitation in the Tents of</hi> Kedar, <hi>my Soul hath long wiſh'd for Peace, but when I ſpeak of Peace they are for War.</hi>
+            </p>
+            <p>Theſe Men, tho' in Times of profound Peace, Live according to the Doctrine of the <hi>Leviathan,</hi> in a perpetual State of War; and their greateſt Quarrel of all, is againſt the very Articles of Peace, as in that great one relating to our Superiours; Duty and Allegiance is reproach'd, as time-ſerving; ſo Love and Kindneſs to our Neighbours, as
+<pb n="8" facs="tcp:42940:9"/>Compliance and Officiouſneſs; Temperance and Induſtry, as mean and ſervile: ſuch ſowr Thoughts and bitter Sarcaſms, is a mixture doubtleſs of Gall and Vinegar, no leſs offenſive to the Bleſſed Jeſus, than the cruel Sponge which was proferr'd him upon the Croſs. But then,</p>
+            <p>
+               <hi>Secondly,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> There are ſome Men who have all the external Marks of this Chriſtian Grace we are ſpeaking of, but have not the leaſt Impreſſion of it upon their Hearts: there is an outward appearance of Peace and Friend<g ref="char:EOLhyphen"/>ſhip in their addreſs; they are willing to enter into Societies, to engage in Friendſhips, to renew old Amities, and promote new ones: But theſe are ſuch whited Sepulchres as the Phariſes of Old were amongſt the <hi>Jews;</hi> there is a Root of Bitterneſs ſtill alive, tho' as it were deep buried.</p>
+            <p>Of either of theſe two ſorts of Men, I have now mention'd, there are none I hope among us here preſent; altho' ſome of 'em crept into the primitive <hi>Agapae,</hi> or Feaſts of Love; of whom St. <hi>Peter</hi> takes notice, as of Spots and Blemiſhes in their publick Meet<g ref="char:EOLhyphen"/>ings,
+<pb n="9" facs="tcp:42940:9"/>rity, <hi>Sporting themſelves,</hi> ſaith he,<note place="margin">2 Ep. 2.13.</note> 
+               <hi>with their own deceivings, while they Feaſt with you.</hi>
+            </p>
+            <p>Now if we have no ſuch among us, all is well; for there can be none of this <hi>Honoura<g ref="char:EOLhyphen"/>ble Society</hi> like thoſe Men, whoſe Chara<g ref="char:EOLhyphen"/>cter I am now entering upon. Altho',</p>
+            <p>The Third Rank of Men,<milestone type="tcpmilestone" unit="unspecified" n="III"/> are of ſomewhat better alloy than the former two, for they have this Peace of God in their Hearts, not<g ref="char:EOLhyphen"/>withſtanding they take very little care of ma<g ref="char:EOLhyphen"/>nifeſting it by their outward Converſation:</p>
+            <p>I don't only ſpeak of ſuch Men, who neglect Opportunities of promoting Love and Charity amongſt their Neighbours.</p>
+            <p>And who abſent themſelves from ſuch Laudable Conventions as this is, whereby <hi>Publick-ſpiritedneſs</hi> and <hi>Charity,</hi> are as much amplyfied as <hi>
+                  <g ref="char:V">Ʋ</g>nity.</hi>
+            </p>
+            <p>But of thoſe Perſons likewiſe, who love to manage that little good Nature they are Ma<g ref="char:EOLhyphen"/>ſters, of by way of Paradox; People that think and mean well, and yet love to talk amiſs; unleſs it could be ſuppoſed that they ſpeak without thinking; and when the wantonneſs
+<pb n="10" facs="tcp:42940:10"/>of their Wit or Genius, would be loth to lye under that Cenſure:</p>
+            <p>Now both theſe ſorts of Men, tho' in ſome reſpects they may be ſaid to have the Peace of God in their Hearts, their own Conſciences not accuſing 'em of any miſ<g ref="char:EOLhyphen"/>chievous Deſigns, or ſo much as uncharitable Thoughts; yet the Peace of God doth not <hi>Rule</hi> within 'em, they receive the Spirit of God into their Hearts as a Gueſt, but not as a Governour.</p>
+            <p>And this in other reſpects is the caſe of many Men; who have not only Inclinations to <hi>Virtuous</hi> and <hi>Moral</hi> Duties, but who are likewiſe well diſpoſed to Exerciſes of <hi>Reli<g ref="char:EOLhyphen"/>gion;</hi> yet for want of fixing their Reſoluti<g ref="char:EOLhyphen"/>ons, and giving themſelves up wholely to a Spiritual Conduct, they are overcome by the Treachery of ſome unmortify'd Adverſary; ſuch as Penuriouſneſs, Peeviſhneſs, Sloth, Pride or the like; or elſe by the boiſterouſ<g ref="char:EOLhyphen"/>neſs of that unbridled Luſt, which under the denomination of <hi>Wit,</hi> is ſubſervient to all the deſigns of <hi>Ill-nature.</hi> But now,</p>
+            <p>
+               <pb n="11" facs="tcp:42940:10"/>
+The Fourth ſort of Men,<milestone type="tcpmilestone" unit="unspecified" n="IV"/> are thoſe which I would recommend to your Example.</p>
+            <p>Thoſe, which you appear to be as a <hi>Socie<g ref="char:EOLhyphen"/>ty,</hi> I would have you approve your ſelves in your <hi>ſingle</hi> and <hi>particular</hi> Capacities.</p>
+            <p>In whoſe Hearts the Peace of God hath not only <hi>poſſeſſion,</hi> but <hi>Government;</hi> and Exer<g ref="char:EOLhyphen"/>ciſes a Soveraign and Uncontroul'd Autho<g ref="char:EOLhyphen"/>rity over all the Faculties of the Soul, and Actions of the Body.</p>
+            <p>Well then, that we may the better un<g ref="char:EOLhyphen"/>derſtand the Allegory, and the force of this word <hi>Rule,</hi> we are to ſuppoſe in the Heart of Man two contending Parties. The Spirit of <hi>Love,</hi> and the Spirit of <hi>Enmity;</hi> the one lays claim by a Lawful and Eternal right of Praeeminence, and the other only by Stealth or Uſurpation.</p>
+            <p>The Spirit of Love ſets up the Peace of God, and becauſe Peace is a thing ſo univerſally de<g ref="char:EOLhyphen"/>ſireable; the very Spirit of Enmity ſometimes pretends to ſet up a ſort of Peace too; the Peace of <hi>Neceſſity,</hi> the Peace of <hi>Worldly Intereſt,</hi> a Politick and deſigning Peace, ſuch an one
+<pb n="12" facs="tcp:42940:11"/>as never comes up to that <hi>of God, which paſ<g ref="char:EOLhyphen"/>ſeth all <g ref="char:V">Ʋ</g>nderſtanding.</hi>
+            </p>
+            <p>Now the words of my Text are a deciſion of the Controverſy, and give the ſole Au<g ref="char:EOLhyphen"/>thority to the Peace of God, it makes this the Judge and Umpire of all Occurrences: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> let it <hi>Rule,</hi> or rather let it <hi>give the Palm of Victory;</hi> it is a word that alludes to the anci<g ref="char:EOLhyphen"/>ent Exerciſes among the <hi>Grecians,</hi> and Ori<g ref="char:EOLhyphen"/>ginally ſignifies, <hi>to beſtow a Reward:</hi> The Office of the Judge, being to beſtow a Palm or Crown upon the Victor.</p>
+            <p>And this Metaphor ſhould methinks ſilence all Pretenſions to Uncharitableneſs and Cen<g ref="char:EOLhyphen"/>ſoriouſneſs; here is a Commiſſion only for <hi>Approbation,</hi> and none at all for the <hi>Con<g ref="char:EOLhyphen"/>demnation</hi> of any one; its Office being no other, than to ſilence and over-rule all things that do not make for Peace. I proceed there<g ref="char:EOLhyphen"/>fore.</p>
+            <p>
+               <hi>Thirdly,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="III"/> To the Motives and Inducements, by which the Apoſtle would perſwade us to this Peace of God.</p>
+            <p>
+               <pb n="13" facs="tcp:42940:11"/>
+               <hi>Firſt,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> The Ordinance and Appointment of God, expreſs'd in theſe words, <hi>
+                  <g ref="char:V">Ʋ</g>nto which you are call'd.</hi> And,</p>
+            <p>
+               <hi>Secondly,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> The Mutual Relation which we have one to another, being all of us Mem<g ref="char:EOLhyphen"/>bers <hi>in one Body.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> Then this Chriſtan Peace is one of the chief Articles of the New Covenant be<g ref="char:EOLhyphen"/>tween God and Man, which our Saviour himſelf by his own Example did confirm:</p>
+            <p>The pleaſant Fruits of Peace, <hi>Love</hi> and <hi>Joy,</hi> for inſtance, he did in the earlieſt days of his Prophetic Office in a very extraordina<g ref="char:EOLhyphen"/>ry manner encourage; Witneſs the firſt Mi<g ref="char:EOLhyphen"/>racle he did in <hi>Cana</hi> of <hi>Galilee,</hi> by changing at a great Feaſt of Love, ſo much Water in<g ref="char:EOLhyphen"/>to Wine: Which was a plain Argument, that he came not to introduce a ſullen, ſowre, moroſe Affectation of Religion; but ſo far as might conduce with Charity and Temperance, he indulged his Proſelyes to Innocent Mirth: and ſo much more than the commonly ſuppoſs'd neceſſary Refections of Nature, that the envious <hi>Cynicks</hi> and mea<g ref="char:EOLhyphen"/>gre <hi>Puritans</hi> cenſur'd him, as a Glutton,
+<pb n="14" facs="tcp:42940:12"/>and a Wine-bibber; adding to his Charge his Eating with Publicans and Sinners, whilſt his Accuſers were in the mean time <hi>Devouring Widows Houſes.</hi>
+            </p>
+            <p>The <hi>Examples</hi> of Peace, Love and Unity, which our Saviour ſet the World, are evi<g ref="char:EOLhyphen"/>dent, and no leſs ſo are his <hi>Precepts;</hi> as in the ninth of St. <hi>Mark,</hi> at the fiftieth Verſe, <hi>Have Salt in your ſelves,</hi> [that Wiſdom and Prudence, which ſeaſons every Feaſt of Love] <hi>and have Peace one with another.</hi> St. <hi>Paul</hi> likewiſe in the twelfth to the <hi>Romans,</hi> ſeventeenth Verſe, <hi>If it be poſſible, as much as lies in you, live Peaceably with all Men; ſo</hi> Chap. 14. verſ. 19. <hi>Let us follow after the things which make for Peace, and things wherewith one may edify another.</hi>
+            </p>
+            <p>And then I muſt needs infer, That if our Aſſembling our ſelves here together this day, after this manner, be a thing that makes for Peace and Amity? why it ſeems we have a proper Call to it, and I don't ſee how any one can without good Reaſons excuſe his abſence.</p>
+            <p>
+               <pb n="15" facs="tcp:42940:12"/>
+Correſpondent hereto we find the Begin<g ref="char:EOLhyphen"/>ings of Chriſtianity, as in the fourth of the <hi>Acts,</hi> 32 verſ. we read, that <hi>the Multitude of them which believed, wereof one Heart, and of one Soul.</hi>
+            </p>
+            <p>They had Societies, and Feaſts of Love, wherein there was conſtantly a Communicati<g ref="char:EOLhyphen"/>on of outward things to thoſe that were in want; and which join'd together with Meek<g ref="char:EOLhyphen"/>neſs, and Forgiveneſs of Injuries, was indeed a <hi>walking worthy of the Vocation where<g ref="char:EOLhyphen"/>with they were call'd.</hi>
+               <note place="margin">Eph. 4.1</note>
+            </p>
+            <p>Now by how much we come ſhort of theſe things, by ſo much we are fallen off from <hi>Primitive Chriſtianity,</hi> by ſo much we are unmindful of our Calling; for thoſe whom God Almighty hath call'd into his Church, are by him commanded to Live as Bretheren, and <hi>Heirs</hi> together of <hi>the ſame Promiſe;</hi> and this is</p>
+            <p>The ſecond Motive,<milestone type="tcpmilestone" unit="unspecified" n="II"/> to wit, the mutual Relation which we have one to another, by being all of us Members of one Body. <hi>To the which alſo ye are call'd together, in one Body.</hi>
+            </p>
+            <p>
+               <pb n="16" facs="tcp:42940:13"/>
+Among all the ſeveral ſorts of Societies in the World, Societies of <hi>Conſanguinity</hi> or <hi>Affinity,</hi> Societies of <hi>Policy</hi> or Civil Go<g ref="char:EOLhyphen"/>vernment, Societies of <hi>Places,</hi> Societies of <hi>Profeſſion,</hi> and Societies of pure <hi>Friendſhip;</hi> that which Superſedes all, nay rather Bleſſes and Sanctifies all, is <hi>Eccleſiaſtical</hi> Society; which every Chriſtian at his Baptiſm hath entered himſelf into, and engaged to obſerve the Heavenly Oeconomy thereof; each Chri<g ref="char:EOLhyphen"/>ſtian being but a ſeveral Part of that one Body, of which Jeſus Chriſt is the Head; <hi>For as we have members in one body,<note place="margin">Rom. 12.4.</note> and all members have not the ſame Office, ſo we being many, are one body in Chriſt, and every one members one of another.</hi>
+            </p>
+            <p>We have to the like purpoſe, 1 <hi>Cor.</hi> 12.12. <hi>For, as the body is one and hath many members, and all the members of that one bo<g ref="char:EOLhyphen"/>dy being many, are one body, ſo alſo is Chriſt.</hi> And then it follows, verſ. 25. <hi>God hath ſo or<g ref="char:EOLhyphen"/>dered, that there ſhould be no Schiſm in the body; but that the members ſhould have the ſame care one for another; and whether one mem<g ref="char:EOLhyphen"/>ber ſuffer, all the members ſuffer with it; or
+<pb n="17" facs="tcp:42940:13"/>one Member be honoured, all the Members rejoyce with it.</hi>
+            </p>
+            <p>Thus much concerning the <hi>Peace of God.</hi>
+            </p>
+            <p>I come now to ſpeak more briefly of this other Chriſtian Virtue <hi>Gratitude,</hi> expreſs'd in theſe words, <hi>Be ye thankful.</hi> By which we are to underſtand, a Religious and thank<g ref="char:EOLhyphen"/>ful acknowledgment of the Benefits which we receive by the diſpenſation of the Goſpel.</p>
+            <p>The Comforts of an Holy Fellowſhip here, and the Promiſes of Eternal Life here<g ref="char:EOLhyphen"/>after, are tender'd to us upon ſuch Conditi<g ref="char:EOLhyphen"/>ons, which are in themſelves ſo eaſy to be obſerved, and ſo much our Natural Duty to perform, that they can never be ſaid to merit or deſerve any thing at God's Hand. So that all the Good and Charitable Works we are capable of doing, are but ſo many acknowledgments by way of <hi>Gratitude,</hi> for what we are never able to purchaſe, but has been freely offer'd by the bounty of God. All returns therefore which are under <hi>Valua<g ref="char:EOLhyphen"/>tion</hi> of the thing received, can be upon no other account, but of <hi>Gratitude.</hi>
+            </p>
+            <p>
+               <pb n="18" facs="tcp:42940:14"/>
+Our Duty and Obedience to our Superi<g ref="char:EOLhyphen"/>ours, our Love and Friendſhip to one ano<g ref="char:EOLhyphen"/>ther, our Charity and Liberality to the Poor and Needy, are but ſo many returns of <hi>Gra<g ref="char:EOLhyphen"/>titude</hi> to <hi>God;</hi> for the Comforts and Prote<g ref="char:EOLhyphen"/>ction of Government, for the happineſs of a Chriſtian Neighbourhood, for making us Members of Chriſt's Holy Body, and the En<g ref="char:EOLhyphen"/>titling us to the Inheritance of an Heavenly <hi>Canaan.</hi>
+            </p>
+            <p>A Senſe of <hi>Gratitude</hi> therefore, ſhould have a powerful Influence upon us in the whole courſe of our Lives.</p>
+            <p>In our Duty to <hi>God,</hi> by doing him all the Duties of Faithful <hi>Servants</hi> in his Holy <hi>Fa<g ref="char:EOLhyphen"/>mily;</hi> and above all, expreſſing continual Thanks to him, for Suſtaining us by his Word and Power, and placing us in a So<g ref="char:EOLhyphen"/>ciety, whoſe reciprocal Obligations are <hi>Love</hi> and <hi>Peace.</hi>
+            </p>
+            <p>In our Duty to our <hi>Neighbours,</hi> by all the Holy Offices of <hi>Love, Joy, Peace, Long<g ref="char:EOLhyphen"/>ſuffering, Goodneſs, Meekneſs, Patience</hi> and the like; conſidering one another as the Image of God, as the purchaſe of our Bleſ<g ref="char:EOLhyphen"/>ſed
+<pb n="19" facs="tcp:42940:14"/>Saviour's Blood, and as Coheirs of the Heavenly promiſes.</p>
+            <p>In our Duty towards our <hi>ſelves,</hi> by Li<g ref="char:EOLhyphen"/>ving in <hi>Temperance, Soberneſs</hi> and <hi>Chaſti<g ref="char:EOLhyphen"/>ty,</hi> as thoſe that have poſſeſs'd their Souls with an hope of Eternal things, that ex<g ref="char:EOLhyphen"/>ceeding weight of Glory, which is laid up for us in Heaven. And then with a Prudent concern for publick good, let our own Intereſt prompt us to <hi>Peace</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nity.</hi>
+            </p>
+            <p>Let us remember that it was <hi>Faction</hi> and <hi>Rebellion,</hi> which threw ſome <hi>Angels</hi> out of Heaven, and that 'tis <hi>Concord</hi> and <hi>Obedi<g ref="char:EOLhyphen"/>ence</hi> which muſt bring us into their forfei<g ref="char:EOLhyphen"/>ted Places; that 'tis impoſſible we ſhould ever be eſtabliſh'd in <hi>Peace,</hi> unleſs we are Link'd and United together in the Bonds of <hi>Love</hi> and <hi>Charity,</hi>
+               <note place="margin">De Civitat. Dei.</note> For <hi>as the Humane Spirit,</hi> ſaith St. <hi>Auſtin, can never animate the Mem<g ref="char:EOLhyphen"/>bers of the Body, unleſs they are join'd, or uni<g ref="char:EOLhyphen"/>ted together; ſo the Holy Spirit of God doth never animate the Members of the Church, un<g ref="char:EOLhyphen"/>leſs they are likewiſe united in Peace and Good<g ref="char:EOLhyphen"/>will.</hi>
+            </p>
+            <p>
+               <pb n="20" facs="tcp:42940:15"/>
+But above all, let a Senſe of <hi>Gratitude</hi> to<g ref="char:EOLhyphen"/>wards God, oblige us to this Duty of <hi>pub<g ref="char:EOLhyphen"/>lick Peace</hi> and <hi>Concord;</hi> ſince he has been ſo graciouſly pleaſed to diſperſe the dangers of a Foreign Enemy, when he might have given us over as a Prey unto 'em: Let us take heed that we fall into no Enmities at home, and ſo become a Prey one to another: Let the tenderneſs that God hath ſhewed to us, not only <hi>teach,</hi> but by all the Obligations of Love and Gratitude <hi>operate</hi> ſo upon us, as to be much more tender of the <hi>publick,</hi> than of our <hi>private</hi> concerns.</p>
+            <p>Let us take heed that we ſleight not the <hi>late</hi> inſtances of his Mercy, but unite our Hearts and Affections to one another, by that (among other Conſiderations) of our late dangers of falling into <hi>Miſery</hi> or <hi>Captivity;</hi> and let us be <hi>ſpeedy</hi> in ſuch returns of Gra<g ref="char:EOLhyphen"/>titude, leſt miſchiefs worſe than thoſe we fear put it out of our <hi>Capacity,</hi> or a grea<g ref="char:EOLhyphen"/>ter ſecurity out of our <hi>Thoughts: You</hi> ſure to whom I addreſs my ſelf, have the grea<g ref="char:EOLhyphen"/>teſt reaſon of any <hi>Tribe</hi> or <hi>County</hi> of this Nation, becauſe you lye moſt expos'd to Fo<g ref="char:EOLhyphen"/>reign
+<pb n="21" facs="tcp:42940:15"/>Invaſions, or to any other Inſults of an enrag'd Enemy: You were within hearing of the Alarm of War, and the neareſt to Out<g ref="char:EOLhyphen"/>rage, had we been overthrown.</p>
+            <p>You would never more have boaſted that you are the only People of <hi>England</hi> that ne<g ref="char:EOLhyphen"/>ver were Conquer'd; for then you would in all probability have been the firſt; you would have found ſomething more formidable than the Arms of <hi>Julius Caeſar,</hi> or even of the <hi>Norman Conqueror,</hi> tho' they carried ſuch a terror along with 'em, as made the Heart and Spirits as it were of the whole Nation, to retire into your <hi>invincible</hi> Corner of it.</p>
+            <p>You would no more have retain'd your ancient Liberties; thoſe I mean, which your Anceſtors had Reſcued by unexampled Cou<g ref="char:EOLhyphen"/>rage and Conduct out of a general Deflagra<g ref="char:EOLhyphen"/>tion.</p>
+            <p>All the <hi>Riches,</hi> and <hi>Honours,</hi> and <hi>Beau<g ref="char:EOLhyphen"/>ties,</hi> in which you excel other <hi>Counties,</hi> had made your Captivity or Baniſhment, but the more inſupportable. Then in ſuch a Caſe,
+<pb n="22" facs="tcp:42940:16"/>
+               <q>Nos Patriae fines, &amp; dulcia linquimus Arva,<note place="margin">Virg. Ecl. 1.</note>
+               </q> had been the ſad <hi>Palinode</hi> to your pretty <hi>Motto.</hi>
+               <note place="margin">Sub tegmi<g ref="char:EOLhyphen"/>ne Fagi In<g ref="char:EOLhyphen"/>victi.</note>
+            </p>
+            <p>But inſtead of that, you were the firſt People that were now lately Bleſſed with the return of our <hi>Triumphant Mouarch.</hi>
+            </p>
+            <p>The firſt that ſtrow'd your <hi>Ave's</hi> under the <hi>Beautiful Feet</hi> of him that <hi>brought Peace.</hi>
+            </p>
+            <p>And what returns of Gratitude can you make to <hi>God</hi> and the <hi>King,</hi> but by poſſeſ<g ref="char:EOLhyphen"/>ſing your Souls with the <hi>Peace of God,</hi> with ſuch a Peaceable diſpoſition as becomes good Chriſtians, and good Subjects? letting it <hi>rule in your Hearts, to the which alſo ye are call'd together</hi> this day, as it were in <hi>one Body.</hi>
+            </p>
+            <p>You are call'd together not only to the <hi>Feſtivity,</hi> but to the <hi>Duties</hi> of the Day. And it is <hi>my</hi> Duty to put you in mind, that ſeeing you now meet together with greater cauſes of <hi>Joy,</hi> and greater marks of <hi>Proſpe<g ref="char:EOLhyphen"/>rity</hi> than ever, that you now make greater returns than ever of <hi>Gratitude</hi> to God.</p>
+            <p>
+               <pb n="23" facs="tcp:42940:16"/>
+How many <hi>Illuſtrious,</hi> how many <hi>Prudent,</hi> how many <hi>Wealthy,</hi> how many <hi>Active</hi> Men will meet this day together! with what Mercies received, with what Abilities at<g ref="char:EOLhyphen"/>tain'd, with what Opportunities of doing good, will they come laden! and will ſome little uſual or ordinary offering of Praiſe ſerve turn; will the doing that, be an ac<g ref="char:EOLhyphen"/>ceptable Sacrifice from ſo potent a <hi>Society</hi> which is not above the Ability of <hi>one Man?</hi>
+            </p>
+            <p>Your <hi>County</hi> indeed can vie in <hi>pub<g ref="char:EOLhyphen"/>lick</hi> Works of Charity with any in the Nati<g ref="char:EOLhyphen"/>on, not only of the <hi>Deceaſed</hi> but of <hi>Li<g ref="char:EOLhyphen"/>ving</hi> Benefactors too. But theſe <hi>publick</hi> Works which are the Gifts of <hi>private</hi> Men, ſhould much more excite you methinks now in a <hi>publick</hi> Capacity, to the doing more works of Charity, than ever any Body of Men hath yet done for the Relief of <hi>private Ne<g ref="char:EOLhyphen"/>ceſſities.</hi>
+            </p>
+            <p>I am afraid, leſt you ſhould degenerate from the Character of your <hi>Anceſtors;</hi>
+               <note place="margin">Caeſ.</note> they almoſt 2000 Years ago were reputed to
+<pb n="24" facs="tcp:42940:17"/>have had the greateſt Humanity of any Peo<g ref="char:EOLhyphen"/>ple in the World, and if the <hi>Humanity</hi> of <hi>Gentiles</hi> exceed the <hi>Charity</hi> of <hi>Chriſtians;</hi> then as to your parts it is, as if <hi>Chriſt had Dy'd in vain;</hi> and tho' you were probably the <hi>firſt Chriſtians</hi> of this <hi>Iſle,</hi> yet <hi>your faith hath been in vain.</hi>
+            </p>
+            <p>No: <hi>Let every Man do</hi> indeed <hi>according as he is diſpoſed in his Heart;</hi> but he that doth moſt to the Glory of God, will feel the <hi>Peace of God</hi> in a good Conſcience here, and everlaſting Peace, Tranquillity, Joy and Pleaſure hereafter.</p>
+            <p>
+               <hi>Wherefore Brethren,</hi>
+               <note place="margin">2 Cor. 13.11.</note> 
+               <hi>be perfect, be of one Mind, live in peace; and the God of Love and Peace ſhall be with you.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
